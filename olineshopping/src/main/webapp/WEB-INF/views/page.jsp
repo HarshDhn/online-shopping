@@ -8,5 +8,7 @@
 </head>
 <body>
 	${greeting}
+	
+	${mausam}
 </body>
 </html>
