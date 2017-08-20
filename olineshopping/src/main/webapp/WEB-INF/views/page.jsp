@@ -10,5 +10,6 @@
 	${greeting}
 	
 	${mausam}
+	${Chutiya}
 </body>
 </html>

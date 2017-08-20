@@ -13,6 +13,7 @@ public class PageController {
 		ModelAndView mv=new ModelAndView("page");
 		mv.addObject("greeting", "Welcome To Spring Web MVC");
 		mv.addObject("mausam", "Mausam hai Mast...");
+		mv.addObject("Chutia", "Tu chutiya hai...");
 		return mv;
 	}
 }
